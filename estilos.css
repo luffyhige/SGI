@@ -1,3 +1,17 @@
+.divcabecera1{
+    width: 100%;
+    background-color: white;
+    text-align: right;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.acabecera{
+    margin-left: 2%;
+}
+.acabecera2{
+    margin-left: 2%;
+    margin-right: 1%;
+}
 body{
     background-color: aqua;
 }
