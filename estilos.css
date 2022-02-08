@@ -1,3 +1,15 @@
 body{
     background-color: aqua;
 }
+
+.imadonacion{
+    width: 50%;
+    padding: auto;
+    margin: autos;
+    
+}
+.pagdonativo{
+    width: 100%;
+    background-color: black;
+    opacity: 0.8;
+}
