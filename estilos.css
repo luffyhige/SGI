@@ -28,6 +28,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     text-align: right;
+    display: flex;
     background-color: black;
     color: white;
     padding-top: 0.5%;
