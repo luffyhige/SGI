@@ -2,13 +2,17 @@
     width: 100%;
     background-color: white;
     text-align: right;
-    padding-top: 0.5%;
+    padding-top: 0.3%;
     padding-bottom: 0.5%;
 }
 .acabecera{
     margin-left: 2%;
     color: black;
     text-decoration: none;
+}
+.acabecera:hover{
+    background-color: white;
+    color: green;
 }
 .acabecera2{
     margin-left: 2%;
@@ -34,13 +38,16 @@
     margin-left: 2%;
     width: 10%;
 }
-.acabecera:hover{
-    background-color: white;
-    color: green;
-}
+
 .acabeceraboton{
     margin-left: 2%;
     color: black;
+}
+.fotoscabecera1{
+    width: 1.5%;
+}
+.fotoscabecera2{
+    width: 1.8%;
 }
 body{
     background-color: aqua;
