@@ -22,28 +22,56 @@
 .acabecera3{
     margin-left: 2%;
     color: white;
+    text-decoration: none;
+}
+.acabecera3:hover{
+    background-color: black;
+    color: green;
 }
 .divcabecera2{
     background-image: url(./imagenes/oxfam.svg);
     background-position: left;
     background-size: contain;
     background-repeat: no-repeat;
-    text-align: right;
+    text-align: center;
     display: flex;
     background-color: black;
-    color: white;
+    color: white;  
+    align-items: center;
     padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
-.divboton{
-    background-color: yellowgreen;
-    color: black;
+.divcosascabecera2{
+    margin-left: 10%;
+    width: 10%;
+}
+.divcosascabecera3{
     margin-left: 2%;
     width: 10%;
+}
+.divcosascabecera4{
+    margin-left: 1%;
+    width: 20%;
+}
+.divcosascabecera5{
+    width: 20%;
+}
+.divboton{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    background-color: orange;
+    color: white;
+    margin-left: 2%;
+    width: 10%;
+}
+.divboton:hover{
+    background-color: green;
 }
 
 .acabeceraboton{
     margin-left: 2%;
-    color: black;
+    color: white;
+    text-decoration: none;
 }
 .fotoscabecera1{
     width: 1.5%;
