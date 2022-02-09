@@ -139,5 +139,35 @@
     text-transform: uppercase;
 }
 .divmarina{
-    background-image: url(../imagenes/);
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+.divmarina2{
+    background-image: url(../imagenes/marina2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.divmarina3{
+    margin: 0%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.bodymarina{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.videomarina{
+    margin-left: -20%;
+    margin-right: -20%;
 }
