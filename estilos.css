@@ -18,6 +18,7 @@
     margin-left: 2%;
     margin-right: 1%;
 }
+
 .acabecera3{
     margin-left: 2%;
     color: white;
@@ -50,10 +51,16 @@
 .fotoscabecera2{
     width: 1.5%;
 }
-.bodydonativo{
-    background-color: black;
-}
 
+
+body{
+    background-color: aqua;
+
+}
+.bodydonativo{
+    background-color: white;
+
+}
 .pagdonativo{
     width: 100%;
     background-color: grey;
@@ -73,7 +80,7 @@
    
     background-color: black;
     opacity: 0.8;
-    width: 45%;
+    width: 100%;
     text-align: center;
     margin: auto;
     height: auto;
