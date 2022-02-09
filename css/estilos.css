@@ -29,7 +29,7 @@
     color: green;
 }
 .divcabecera2{
-    background-image: url(./imagenes/oxfam.svg);
+    background-image: url(../imagenes/oxfam.svg);
     background-position: left;
     background-size: contain;
     background-repeat: no-repeat;
@@ -103,7 +103,7 @@ body{
     margin: auto;
     text-align: center;
     background-repeat: no-repeat;
-    background-image: url(./imagenes/imadonacion.jpg);
+    background-image: url(../imagenes/imadonacion.jpg);
   
 }
 .capatexto{
