@@ -69,12 +69,13 @@ body{
     margin-top: -1%;
 }
 .capaimadonacion{
-    width: 1000px;
-    height: 263px;
+    width: 55%;
+    height: 10%;
     margin: auto;
     text-align: center;
     background-repeat: no-repeat;
     background-image: url(./imagenes/imadonacion.jpg);
+  
 }
 .capatexto{
    
@@ -98,10 +99,26 @@ body{
     color: white;
    font-size: 1.3em;
     text-align: center;
-    
+  
 }
 .dentrocapaverde{
     width: 55%;
     text-align: center;
     margin: auto;
+}
+.fondonegroarriva{
+    background-color: black;
+}
+.capaantesformulario{
+    margin:auto;
+;
+    width: 55%;
+}
+.lineahr{
+    margin-top: -2%;
+}
+.textoformulario{
+color: green;
+text-transform: uppercase;
+
 }
