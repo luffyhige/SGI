@@ -7,10 +7,40 @@
 }
 .acabecera{
     margin-left: 2%;
+    color: black;
+    text-decoration: none;
 }
 .acabecera2{
     margin-left: 2%;
     margin-right: 1%;
+}
+.acabecera3{
+    margin-left: 2%;
+    color: white;
+}
+.divcabecera2{
+    background-image: url(./imagenes/oxfam.svg);
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: right;
+    background-color: black;
+    color: white;
+    padding-top: 0.5%;
+}
+.divboton{
+    background-color: yellowgreen;
+    color: black;
+    margin-left: 2%;
+    width: 10%;
+}
+.acabecera:hover{
+    background-color: white;
+    color: green;
+}
+.acabeceraboton{
+    margin-left: 2%;
+    color: black;
 }
 body{
     background-color: aqua;
