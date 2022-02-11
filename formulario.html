@@ -101,14 +101,14 @@
                     <label for="100euro">100€</label>
 
                     <div class="otracantidad">
-                        <input type="number" id="otro" name="elige" min="0" max="10000">
+                        <input type="number" id="otro" name="elige" min="0" max="10000" class="otro">
                         <label for="otro">Elige otra cantidad</label>
                     </div>
                     <input type="submit">
                 </div>
                 <div class="listaformulario">
                     <label for="destino">Elige el distino *</label>
-                    <select id="destino" name="destino">
+                    <select id="destino" name="destino" class="destino">
                         <option value="fondos">Fondos generales</option>
                         <option value="emergencia">Emergencia crisis de refugiados</option>
                         <option value="fondosemergencia">Fondos de emergencia</option>
@@ -120,7 +120,7 @@
                 </div>
 
                 <div class="capaantesformulario">
-                    <p class="textoformulario">Selecciona el importe del donativo</p>
+                    <p class="textoformulario">Introduce tus datos personales</p>
                     <hr class="lineahr">
 
                 </div>
@@ -166,9 +166,20 @@
                     </select>
                     <input type="text" id="dni" name="dni" class="inputsuno">
                 </div>
-                <div class="nombredecampos"> <label for="nombre">Correo electronico *</label>
-                    <label for="apelldio" class="labelformulario">Telefono de contacto *</label>
-                    </div>
+                <div class="nombredecamposdos">
+                    <label for="correo">Correo electronico *</label>
+                    <label for="telefono" class="labelformulariodos">Telefono de contacto *</label>
+                </div>
+                <div class="camposformulariodos">
+                    <input type="email" id="correo" name="correo" class="correo">
+                    <input type="tel" id="telefono" name="telefono" pattern="[0-9]" class="telefono">
+                </div>
+                <div class="capaantesformulario">
+                    <p class="textoformulario">Introduce la forma de pago</p>
+                    <hr class="lineahr">
+
+                </div>
+
             </form>
         </div>
 

@@ -201,3 +201,29 @@
 .inputsuno{
     margin-left: 6.5%;
 }
+.nombredecamposdos{
+    margin-top: 2%;
+    margin-left: 23%; 
+}
+.labelformulariodos{
+    margin-left: 30%;
+}
+.camposformulariodos{
+    margin-top: 0.3%;
+    margin-left: 23%; 
+}
+.telefono{
+margin-left: 14%;
+}
+.correo{
+    width: 25%;
+}
+.telefono{
+    width: 15%;
+}
+.destino{
+    width: 35%;
+}
+.otro{
+    height: 150%;
+}
