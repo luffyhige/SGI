@@ -238,6 +238,16 @@ margin-left: 14%;
     margin-top: 2%;
 }
 .botondonativo{
-  margin-left: 33%;
+  margin-left: 25%;
   
+}
+.botondonar{
+    margin-top: 2%;
+    background-color: green;
+    width: 25%;
+    padding-bottom: 2%;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-size: large;
 }
