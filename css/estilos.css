@@ -171,3 +171,14 @@
     margin-left: -20%;
     margin-right: -20%;
 }
+.radioformulario{
+    margin-left: 22%;
+    display: flex;
+}
+.otracantidad{
+    margin-left: 15%;
+}
+.listaformulario{
+    margin-left: 23%;
+    margin-top: 4%;
+}

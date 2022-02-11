@@ -35,28 +35,28 @@
                     </a>
                 </nav>
             </div>
-                <div class="divcabecera2">
-                    <div class="divcosascabecerafoto">
-                        <a href="./index.html"></a>
-                    </div>
-                    <div class="divcosascabecera2">
-                        <a href="" class="acabecera3">QUÉ HACEMOS</a>
-                    </div>
-                    <div class="divcosascabecera3">
-                        <a href="" class="acabecera3">QUIÉNES SOMOS</a>
-                    </div>
-                    <div class="divcosascabecera4">
-                        <a href="" class="acabecera3">CÓMO PUEDES COLABORAR</a>
-                    </div>
-                    <div class="divcosascabecera3">
-                        <a href="" class="acabecera3">TRANSPARENCIA</a>
-                    </div>
-                    <div class="divcosascabecera5"></div>
-                    <div class="divboton">
-                        <a href="./index.html" class="acabeceraboton">INICIO</a>
-                    </div>
+            <div class="divcabecera2">
+                <div class="divcosascabecerafoto">
+                    <a href="./index.html"></a>
                 </div>
-            </header>
+                <div class="divcosascabecera2">
+                    <a href="" class="acabecera3">QUÉ HACEMOS</a>
+                </div>
+                <div class="divcosascabecera3">
+                    <a href="" class="acabecera3">QUIÉNES SOMOS</a>
+                </div>
+                <div class="divcosascabecera4">
+                    <a href="" class="acabecera3">CÓMO PUEDES COLABORAR</a>
+                </div>
+                <div class="divcosascabecera3">
+                    <a href="" class="acabecera3">TRANSPARENCIA</a>
+                </div>
+                <div class="divcosascabecera5"></div>
+                <div class="divboton">
+                    <a href="./index.html" class="acabeceraboton">INICIO</a>
+                </div>
+            </div>
+        </header>
 
         <div class="fondonegroarriva">
             <div class="capaimadonacion">
@@ -72,22 +72,64 @@
                     </div>
                 </div>
             </div>
-            <div class="capaantesformulario"><p class="textoformulario">Selecciona el importe del donativo</p><hr class="lineahr"></div>
-            
-            <div class="capa formulario">
-                <form method="get">
+
+        </div>
+        <div class="capaantesformulario">
+            <p class="textoformulario">Selecciona el importe del donativo</p>
+            <hr class="lineahr">
+
+        </div>
+
+        <br><br>
+        <div class="capa formulario">
+            <form method="get">
+                <div class="radioformulario">
+
+                    <input type="radio" id="1euro" name="elige" value="1euro">
+                    <label for="1euro">1€</label>
+                    <input type="radio" id="2euro" name="elige" value="2euro">
+                    <label for="2euro">2€</label>
+                    <input type="radio" id="5euro" name="elige" value="5euro">
+                    <label for="5euro">5€</label>
+                    <input type="radio" id="10euro" name="elige" value="10euro">
+                    <label for="10euro">10€</label>
+                    <input type="radio" id="25euro" name="elige" value="25euro">
+                    <label for="25euro">25€</label>
+                    <input type="radio" id="50euro" name="elige" value="50euro">
+                    <label for="50euro">50€</label>
+                    <input type="radio" id="100euro" name="elige" value="100euro">
+                    <label for="100euro">100€</label>
+
+                    <div class="otracantidad">
+                        <input type="number" id="otro" name="otro" min="0" max="10000">
+                        <label for="otro">Elige otra cantidad</label>
+                    </div>
+               
+                </div>
+                <div class="listaformulario">
+                    <label for="dinero">Elige el distino *</label>
+                    <select id="dinero" name="dinero">
+                      <option value="fondos">Fondos generales</option>
+                      <option value="emergencia">Emergencia crisis de refugiados</option>
+                      <option value="fondosemergencia">Fondos de emergencia</option>
+                      <option value="hambre">Hambrina de africa</option>
+                      <option value="yemen">Crisis de yemen</option>
+                    </select>
 
 
-                    
-
-
-                </form>
-            </div>
+                </div>
 
 
 
-        </main>
-    </body>
+
+            </form>
+        </div>
+
+
+
+    </main>
+</body>
+
 </html>
 
 
