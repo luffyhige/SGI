@@ -158,7 +158,7 @@
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
-.bodymarina{
+.body{
     text-align: center;
     margin-left: 15%;
     margin-right: 15%;
@@ -501,4 +501,59 @@ footer{
 .imgprin{
     width: 350px;
     height: 250px;
+}
+.divnavidad{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+.divnavidad2{
+    background-image: url(../imagenes/catalogo-comercio-justo-navidad-2021-oxfam-intermon.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.divnavidad3{
+    margin: 0%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.h1navidad{
+    font-size: 70px;
+}
+.h1navidad2{
+    font-size: 30px;
+    margin-top: -10%;
+}
+.pnavidad{
+    font-size: 30px;
+}
+.pnavidad2{
+    font-size: 25px;
+}
+.pnavidad3{
+    font-size: 25px;
+    color: green;
+}
+.divvideo{
+    width: 100%;
+}
+.divvideo1{
+    display: flex;
+}
+.divmanalf{
+    width: 70%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.divvideo2{
+    display: flex;
 }
