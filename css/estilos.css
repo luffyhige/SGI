@@ -63,9 +63,27 @@
 .divboton:hover{
     background-color: green;
 }
+.divboton2{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    background-color:green;
+    color: white;
+    margin-left: 50%;
+    margin-top: 13%;
+    width: 10%;
+}
+.divboton2:hover{
+    background-color: white;
+}
+
 .acabeceraboton{
     margin-left: 2%;
     color: white;
+    text-decoration: none;
+}
+.acabeceraboton2{
+    margin-left: 2%;
+    color: rgb(2, 2, 2);
     text-decoration: none;
 }
 .fotoscabecera1{
@@ -423,6 +441,22 @@
     width: 40%;
     background-color: green;
     color: white;
+}
+.divpie5{
+    text-align: center;
+    width: 60%;
+    background-color: green;
+    color: white;
+    
+}
+.divpie6{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    background-image: url(../imagenes/negras.jpg);  
+    width: 60%;
+    height: 455px;
+    background-repeat: no-repeat;
 }
 footer{
     height: 50px;
