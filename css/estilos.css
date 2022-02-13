@@ -528,10 +528,10 @@ footer{
 }
 .h1navidad{
     font-size: 70px;
+    margin-bottom: -8%;
 }
 .h1navidad2{
     font-size: 30px;
-    margin-top: -10%;
 }
 .pnavidad{
     font-size: 30px;
@@ -545,6 +545,7 @@ footer{
 }
 .divvideo{
     width: 100%;
+    margin-bottom: 10%;
 }
 .divvideo1{
     display: flex;
@@ -556,4 +557,79 @@ footer{
 }
 .divvideo2{
     display: flex;
+    margin-left: -18%;
+    margin-right: -18%;
+}
+.divtarjetas{
+    display: flex;
+    width: 140%;
+    height: 400px;
+    color: white;
+    margin-left: -20%;
+    margin-right: -20%;
+    margin-bottom: 10%;
+}
+.divtarjetas1{
+    padding-top: 5%;
+    width: 50%;
+    background-color: orangered;
+}
+.divtarjetas2{
+    padding-top: 5%;
+    width: 50%;
+    background-color: rgb(255, 47, 92);
+}
+.divtarjetas3{
+    padding-top: 5%;
+    width: 50%;
+    background-color: rgb(121, 0, 60);
+}
+.botonestarjetasp{
+    text-align: center;
+    width: 70%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.botonestarjetas{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.h2navidad{
+    font-size: 50px;
+    color: green;
+}
+.divfotosnavidad{
+    display: flex;
+    width: 140%;
+    margin-top: 10%;
+    margin-left: -20%;
+    margin-right: -20%;
+    margin-bottom: 10%;
+}
+.fotosnavidadp{
+    margin-right: 9%;    
+}
+.fotosnavidad1{
+    width: 120%;
+    height: 100%;
+}
+.fotosnavidad2{
+    width: 100%;
+    height: 100%;
+}
+.divregalo{
+    width: 140%;
+    height: 650px;
+    padding-top: 3%;
+    margin-left: -20%;
+    margin-right: -20%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    background-color: rgb(37, 37, 37);
 }
