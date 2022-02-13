@@ -34,7 +34,7 @@
     background-repeat: no-repeat;
     text-align: center;
     display: flex;
-    background-color: black;
+    background-color: rgb(37, 37, 37);
     color: white;  
     align-items: center;
     padding-top: 0.5%;
@@ -389,4 +389,47 @@
 .ultimomarina{
     margin-top: 6%;
     margin-bottom: 10%;
+}
+.piedepagina{
+    text-align: center;
+}
+.apie{
+    color: green;
+}
+.apie2{
+    color: green;
+    text-decoration: none;
+}
+.divpie{
+    display: flex;
+    text-align: left;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+.divpie_{
+    display: flex;
+    text-align: left;
+}
+.partespie{
+    margin-right: 20%;
+}
+.ppartespie{
+    margin-bottom: -5%;
+}
+.divpie1_3{
+    width: 40%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+}
+.divpie2{
+    text-align: center;
+    width: 40%;
+    background-color: green;
+    color: white;
+}
+footer{
+    height: 50px;
+    margin-top: 2%;
+    font-size: 20px;
 }
