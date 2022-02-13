@@ -327,7 +327,7 @@
     background-color: rgb(238, 238, 238);
     text-align: left;
     width: 140%;
-    height: 500px;
+    height: 750px;
     margin-left: -20%;
     margin-right: -20%;
 }
@@ -366,4 +366,27 @@
 }
 .divbotonestexto{
     display: flex;
+}
+.textolab{
+    font-size: 20px;
+    width: 35%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.citamarina{
+    font-size: 20px;
+    color: orangered;
+    margin-bottom: -3%;
+}
+.imagenlab{
+    width: 90%;
+    height: 75%;
+}
+.h2marina2{
+    color: orangered;
+    font-size: 30px;
+}
+.ultimomarina{
+    margin-top: 6%;
+    margin-bottom: 10%;
 }
