@@ -20,12 +20,6 @@
 }
 .acabecera3{
     margin-left: 2%;
-    color: white;
-    text-decoration: none;
-}
-.acabecera3:hover{
-    background-color: black;
-    color: green;
 }
 .divcabecera2{
     background-image: url(../imagenes/oxfam.svg);
