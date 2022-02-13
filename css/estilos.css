@@ -128,8 +128,7 @@
 }
 .capaantesformulario{
     margin:auto;
-    margin-top: 2%
-;
+    margin-top: 2%;
     width: 55%;
 }
 .lineahr{
@@ -213,7 +212,7 @@
     margin-left: 23%; 
 }
 .telefono{
-margin-left: 14%;
+    margin-left: 14%;
 }
 .correo{
     width: 25%;
@@ -239,7 +238,6 @@ margin-left: 14%;
 }
 .botondonativo{
   margin-left: 25%;
-  
 }
 .botondonar{
     margin-top: 2%;
