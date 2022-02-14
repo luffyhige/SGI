@@ -620,19 +620,52 @@ footer{
 }
 .botonestarjetasp{
     text-align: center;
-    width: 70%;
-    border-width: 2px;
-    border-style: solid;
-    border-color: white;
-    margin-left: 15%;
-    margin-right: 15%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    margin-top: 5%;
 }
-.botonestarjetas{
-    font-size: 20px;
-    text-decoration: none;
+.botonestarjetas1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
     color: white;
+    text-decoration: none;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
+.botonestarjetas1:hover{
+    color: orangered;
+    background-color: white;
+}
+.botonestarjetas2{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    text-decoration: none;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
+.botonestarjetas2:hover{
+    color: rgb(255, 47, 92);
+    background-color: white;
+}
+.botonestarjetas3{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    text-decoration: none;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
+.botonestarjetas3:hover{
+    color: rgb(121, 0, 60);
+    background-color: white;
 }
 .h2navidad{
     font-size: 50px;
